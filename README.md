@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EmilienKopp
 - 👀 I’m interested in learning languages, including programming ones, writing, reading, video games, and traveling
-- 🌱 I’m currently learning ASP.NET / MAUI / PHP Laravel 
+- 🌱 I’m currently learning PHP Laravel / MAUI / Rails
 - 📫 How to reach me : write to me to emilien.kopp@gmail.com
-
 
 
 <!---
