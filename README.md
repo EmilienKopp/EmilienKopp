@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
     <a href="https://www.mailgun.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mailgun/mailgun-ar21.svg" alt="mailgun" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" alt="mailgun" width="40" height="40"/> 
   </a> 
   <!--
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
