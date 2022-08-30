@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a>
-  <a href="https://" target="_blank" rel="noreferrer">
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="Svelte" width="40px" height="40px"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
