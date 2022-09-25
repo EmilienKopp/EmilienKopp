@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
-  <a href="[https://angular.io/](https://laravel.com/)" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
