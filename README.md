@@ -31,9 +31,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="Svelte" width="20px" height="20px"/>
   </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="20" height="20"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
   </a> 
