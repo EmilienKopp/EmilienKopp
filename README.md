@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilienKopp
 - 👀 I’m interested in learning languages, including programming ones, writing, reading, video games, and traveling
-- 🌱 I’m currently learning SvelteNative / Rust
+- 🌱 I’m currently learning：Elixir/Phoenix
 - 📫 How to reach me : write to me to emilien.kopp@gmail.com
 
 
