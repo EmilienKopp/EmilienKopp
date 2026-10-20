@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning：Elixir/Phoenix
 - 📫 How to reach me : follow me on https://dev-null.sh/@EmilienKopp or https://x.com/EmilienKopp
 
+### /dev/null Activity
 [![/dev/null activity](https://dev-null.sh/@EmilienKopp/graph.svg)](https://dev-null.sh/@EmilienKopp)
 
+### tecturn.dev Activity
+[![tecturn activity](https://tecturn.dev/@emilienkopp/graph.svg)](https://tecturn.dev/@emilienkopp)
 
 <!---
 EmilienKopp/EmilienKopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
