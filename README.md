@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning：Elixir/Phoenix
 - 📫 How to reach me : write to me to emilien.kopp@gmail.com
 
+[![/dev/null activity](https://dev-null.sh/@EmilienKopp/graph.svg)](https://dev-null.sh/@EmilienKopp)
+
 
 <!---
 EmilienKopp/EmilienKopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
