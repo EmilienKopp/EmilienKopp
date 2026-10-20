@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmilienKopp
 - 👀 I’m interested in learning languages, including programming ones, writing, reading, video games, and traveling
 - 🌱 I’m currently learning：Elixir/Phoenix
-- 📫 How to reach me : write to me to emilien.kopp@gmail.com
+- 📫 How to reach me : on here!
 
 [![/dev/null activity](https://dev-null.sh/@EmilienKopp/graph.svg)](https://dev-null.sh/@EmilienKopp)
 
